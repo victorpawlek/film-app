@@ -1,5 +1,12 @@
 <template>
-  <v-easy-camera v-model="picture" fullscreen="false" mustApprove="true"  ></v-easy-camera>
+  <v-easy-camera
+    :output="blob"
+    v-model="picture"
+    fullscreen="false"
+    mustApprove="true"
+    @close="$emit('close')"
+    @approve="$emit('approve',$event)"
+  ></v-easy-camera>
 </template>
 
 <script>
