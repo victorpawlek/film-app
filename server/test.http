@@ -1,4 +1,14 @@
-GET http://localhost:3000/filme
+POST https://filmapp12.herokuapp.com/notify
+Content-Type: application/json
+
+{"message":"du moritz dumkopf"}
+###
+POST http://localhost:3000/notify
+Content-Type: application/json
+
+{"message":"servus"}
+###
+GET https://filmapp12.herokuapp.com/filme
 ###
 PATCH http://localhost:3000/cars/1
 Content-Type: application/json
