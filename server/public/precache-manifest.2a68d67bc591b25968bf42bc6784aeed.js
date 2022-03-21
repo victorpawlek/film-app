@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo_film.64ea0537.png"
   },
   {
-    "revision": "c82a1b29ba609a8923b0932654f2113d",
+    "revision": "1258dcb3e3c29842edcc0105b957bfd7",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.9eda1e67.js"
   },
   {
-    "revision": "690bc3d66b92e63d24c6",
-    "url": "/js/app.5e0d20ce.js"
+    "revision": "23b5f1ef3ae7db7f8c9c",
+    "url": "/js/app.45fb838d.js"
   },
   {
     "revision": "a8583934fcefc15a62cd",

@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.bc19f60274c77835c5edfedc127d7b29.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.2a68d67bc591b25968bf42bc6784aeed.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 const defaultOptions = {
   exclude: [/\.map$/, /img\/icons\//, /favicon\.ico$/, /^manifest.*\.js?$/],

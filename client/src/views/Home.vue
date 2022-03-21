@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-row class="ma-3 justify-center"><v-btn @click="subscribe">Subscribe</v-btn></v-row>
+    <v-row class="ma-3 justify-center"><v-btn @click="subscribe">Subscribe!</v-btn></v-row>
     <v-row class="ma-3 justify-center"><v-btn @click="sprechen">Appbeschreibung</v-btn></v-row>
   </div>
 </template>
