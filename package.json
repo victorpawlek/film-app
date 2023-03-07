@@ -1,0 +1,19 @@
+{
+  "name": "Filme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorpawlek/film-app.git"
+  },
+  "author": "Victor Pawlek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorpawlek/film-app/issues"
+  },
+  "homepage": "https://github.com/victorpawlek/film-app#readme"
+}
