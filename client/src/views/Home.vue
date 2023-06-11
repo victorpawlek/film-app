@@ -12,7 +12,7 @@ export default {
   methods: {
     sprechen() {
       const utterance = new SpeechSynthesisUtterance(
-        "Mit dieser App können sie ihre Filmerlebnise festhalten."
+        "Mit dieser App können sie ihre Erlebnise festhalten."
       );
       utterance.lang = "de";
       speechSynthesis.speak(utterance);
